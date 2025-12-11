@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br><br>Nice meeting you, I'm Aahaan Sethi!<br><br>🔭 I’m currently a 3rd-year B.Tech CSE student at SRM KTR<br>💬 Ask me about: (feel free to tell me what to add here!)<br>📫 How to reach me:<br>  • LinkedIn: www.linkedin.com/in/aahaan-sethi-35a2a428a<br><br>😄 Pronouns: He / Him<br>⚡ Fun fact: I love exploring random tech ideas just to see if I can build them.
+Hi there 👋<br><br>Nice meeting you, I'm Aahaan Sethi!<br><br>🔭 I’m currently a 3rd-year B.Tech CSE student at SRM KTR<br>💬 Ask me about: (you can tell me what you'd like here—coding, projects, domains, etc., or I can suggest something!)<br>📫 How to reach me:<br>  • LinkedIn: www.linkedin.com/in/aahaan-sethi-35a2a428a<br><br>😄 Pronouns: He / Him<br>⚡ Fun fact: I love exploring random tech ideas just to see if I can build them.
 
 
 ## 🌐 Socials:
