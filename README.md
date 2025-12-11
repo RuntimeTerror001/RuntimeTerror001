@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+Hi there 👋<br><br>Nice meeting you, I'm Aahaan Sethi!<br><br>🔭 I’m currently a 3rd-year B.Tech CSE student at SRM KTR<br>💬 Ask me about: (feel free to tell me what to add here!)<br>📫 How to reach me:<br>  • LinkedIn: www.linkedin.com/in/aahaan-sethi-35a2a428a<br><br>😄 Pronouns: He / Him<br>⚡ Fun fact: I love exploring random tech ideas just to see if I can build them.
 
-<!--
-**RuntimeTerror001/RuntimeTerror001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aahaan_sethi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aahaansethi1001@gmail.com) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RuntimeTerror001&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RuntimeTerror001&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RuntimeTerror001&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RuntimeTerror001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=RuntimeTerror001&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=RuntimeTerror001&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
