@@ -6,7 +6,7 @@
 
 Hi there 👋<br><br>
 Nice meeting you, I'm Aahaan Sethi!<br><br>
-🔭 I’m currently a 3rd-year B.Tech CSE student at SRM KTR<br>
+🔭 I’m currently a 4th-year B.Tech CSE student at SRM KTR<br>
 🤝 Open to: team projects, collaboration, and practical problem-solving<br>
 😄 Pronouns: He / Him<br>
 ⚡ Fun fact: I love exploring random tech ideas just to see if I can build them.
